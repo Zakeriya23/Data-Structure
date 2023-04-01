@@ -1,0 +1,26 @@
+AR-RAHMAAN|	ٱلْرَّحْمَـانُ|ALLAH|The Most or Entirely Merciful
+AR-RAHEEM|ٱلْرَّحِيْمُ|ALLAH|The Bestower of Mercy
+AL-MALIK|ٱلْمَلِكُ|ALLAH|The King and Owner of Dominion
+AL-QUDDUS|ٱلْقُدُّوسُ|ALLAH|The Absolutely Pure
+AS-SALAM|ٱلْسَّلَامُ|ALLAH|The Perfection and Giver of Peace
+AL-MU’MIN|ٱلْمُؤْمِنُ|ALLAH|The One Who gives Emaan and Security
+AL-MUHAYMIN|ٱلْمُهَيْمِنُ|ALLAH|The Guardian, The Witness, The Overseer
+AL-AZEEZ|ٱلْعَزِيزُ|ALLAH|The All Mighty
+AL-JABBAR|ٱلْجَبَّارُ|ALLAH|The Compeller, The Restorer
+AL-MUTAKABBIR|ٱلْمُتَكَبِّرُ|ALLAH|The Supreme, The Majestic
+AL-KHAALIQ|ٱلْخَالِقُ|ALLAH|The Creator, The Maker
+AL-BAARI’|ٱلْبَارِئُ|ALLAH|The Originator
+AL-MUSAWWIR|ٱلْمُصَوِّرُ|ALLAH|The Fashioner
+AL-GHAFFAR|ٱلْغَفَّارُ|ALLAH|The All- and Oft-Forgiving
+AL-QAHHAR|ٱلْقَهَّارُ|ALLAH|The Subduer, The Ever-Dominating
+AL-WAHHAAB|ٱلْوَهَّابُ|ALLAH|The Giver of Gifts
+AR-RAZZAAQ|ٱلْرَّزَّاقُ|ALLAH|The Provider
+AL-FATTAAH|ٱلْفَتَّاحُ|ALLAH|The Opener, The Judge
+AL-‘ALEEM|ٱلْعَلِيمُ|ALLAH|The All-Knowing, The Omniscient
+AL-QAABID|ٱلْقَابِضُ|ALLAH|The Withholder
+AL-BAASIT|ٱلْبَاسِطُ|ALLAH|The Extender
+AL-KHAAFIDH|ٱلْخَافِضُ|ALLAH|The Reducer, The Abaser
+AR-RAAFI’|ٱلْرَّافِعُ|ALAH|The Exalter, The Elevator
+AL-MU’IZZ|ٱلْمُعِزُّ|ALAH|The Honourer, The Bestower
+AL-MUZIL|ٱلْمُذِلُّ|ALAH|The Dishonourer, The Humiliator
+AS-SAMEE'|ٱلْسَّمِيعُ|ALAH|The All-Hearing
