@@ -1,4 +1,4 @@
-# CS163
+# CS163 Data Structures
 
 Course Catalog: Data abstraction with formal specification. Elementary algorithm analysis.
 Basic concepts of data and its representation inside a computer. Linear, linked, and
